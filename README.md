@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavenly-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
+| **Get License** | [Official Music Licensing for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your fingers trace my skin
+> A quiet storm that I’m drowning in
+> I’ve been waiting for the sun to go down
+> Just to hear you breathe without a sound
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
