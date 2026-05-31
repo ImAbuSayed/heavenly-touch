@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavenly-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
+| **Get License** | [Secure Licensing Rights for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b414afadd4669bd23e80664c93baea48b41c052623ff99a8229ed9601dcfa7e0` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
