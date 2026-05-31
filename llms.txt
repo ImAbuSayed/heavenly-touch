@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavenly-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
+| **Get License** | [Request Licensing for Heavenly Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavenly-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2480)
 
 ---
 
